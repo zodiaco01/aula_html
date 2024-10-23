@@ -1,3 +1,4 @@
+
 const novaTarefa = document.querySelector("#input_id");
 const botaoAdd = document.getElementById("botao_add_id");
 const formulario = document.getElementById("form_id");
@@ -81,3 +82,4 @@ function verificarMarcados() {
     }
 }
 mame de novo seu safadinho 
+isso mama muito rondinele 
