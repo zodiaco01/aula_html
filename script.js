@@ -79,4 +79,4 @@ function verificarMarcados() {
 
         botaoMarca.innerText = "Marcar todos";
     }
-}
+} rondinele mama muito
