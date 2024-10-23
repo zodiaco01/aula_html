@@ -80,4 +80,4 @@ function verificarMarcados() {
         botaoMarca.innerText = "Marcar todos";
     }
 }
-mame de novo
+mame de novo seu safadinho 
