@@ -56,7 +56,7 @@ botaoMarca.addEventListener("click", () => {
     }
 });
 
-botaoLimpa.addEventListener("ckick", () => {
+botaoLimpa.addEventListener("click", () => {
     listaDeTarefas.innerHTML = "";
 });
 
