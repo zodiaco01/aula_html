@@ -80,3 +80,4 @@ function verificarMarcados() {
         botaoMarca.innerText = "Marcar todos";
     }
 }
+mame de novo
